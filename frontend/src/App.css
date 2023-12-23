@@ -1,0 +1,33 @@
+body{
+    color: bisque;
+    background-color: rgb(47,47,47);
+}
+
+.card{
+    border: 1px outset silver;
+    background-color: gray;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
+
+img.card-img-top{
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
+
+img{
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
+
+.card-title{
+    color: bisque;
+    text-decoration: none;
+}
+
+div.rating{
+    color: gold;
+}
+
+span.rating-text{
+    color: white;
+}
